@@ -13,7 +13,7 @@
             else{
             while($row = mysqli_fetch_assoc($query)){
             echo "<div class='item-post'>";
-            echo "<img src='./posts/photo/$row[image]' width='100%'/>";
+            echo "<img src='./admin/photo/$row[image]' width='100%'/>";
             echo "<a href=./post/{$row['url']}.html>{$row['title']}</a><br>";
             $readmore = '<a href="./post/'.$row['url'].'">
             Đọc thêm...</a>';

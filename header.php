@@ -19,7 +19,7 @@
     <div class="header">
     <nav class="navbar navbar-inverse">
         <div class="navbar-header">
-          <a class="navbar-brand" href="#">Huyen</a>
+          <a class="navbar-brand" href="#">Tin Tuc</a>
         </div>
         <ul class="nav navbar-nav">
           <li class="active"><a href="#">Home</a></li>
